@@ -1,4 +1,4 @@
-![445507276-9b7bfb83-d0cb-4c02-81f6-8ad1e1eaf64f](https://github.com/user-attachments/assets/3a12a004-cce3-43b6-9301-717ca7df3f73)# Norm of a matrix
+NORM OF MATRIX
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
